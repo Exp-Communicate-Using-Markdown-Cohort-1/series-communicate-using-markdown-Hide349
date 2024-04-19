@@ -6,4 +6,8 @@ $ Hello World (C)
     printf("Olá mundo!");
     return 0;
   }
-``
+```
+
+- [ ] Sei programar em C
+- [ ] Sei programar em outra linguagem
+- [ ] Gosto de batata
